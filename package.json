@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mysql2": "^3.11.0"
+  },
+  "name": "daniel2208",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danielfcp29/Daniel2208.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danielfcp29/Daniel2208/issues"
+  },
+  "homepage": "https://github.com/Danielfcp29/Daniel2208#readme",
+  "description": ""
+}
